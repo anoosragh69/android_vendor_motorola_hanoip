@@ -458,6 +458,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/hanoip/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/motorola/hanoip/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
     vendor/motorola/hanoip/proprietary/vendor/firmware/FW_ILITEK_TDDI_TM.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FW_ILITEK_TDDI_TM.bin \
+    vendor/motorola/hanoip/proprietary/recovery/root/vendor/firmware/FW_ILITEK_TDDI_TM.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/FW_ILITEK_TDDI_TM.bin \
     vendor/motorola/hanoip/proprietary/vendor/firmware/a612_rgmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a612_rgmu.bin \
     vendor/motorola/hanoip/proprietary/vendor/firmware/a618_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a618_gmu.bin \
     vendor/motorola/hanoip/proprietary/vendor/firmware/a630_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_gmu.bin \
